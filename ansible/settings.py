@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'ansiledb',
         'USER': 'postgres',
-        'PASSWORD': 'v123456',
+        'PASSWORD': 'varuntest',
         'HOST': 'localhost',
         'PORT': '5432',
     }
