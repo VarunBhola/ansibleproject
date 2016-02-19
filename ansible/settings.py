@@ -78,7 +78,7 @@ DATABASES = {
     'default': {
         
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'ansiledb',
+        'NAME': 'ansibledemo',
         'USER': 'testuser',
         'PASSWORD': 'test123456',
         'HOST': 'localhost',
